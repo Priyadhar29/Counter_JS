@@ -35,7 +35,13 @@ Easily **increment** or **decrement** values with stylish glowing buttons and an
 ---
 
 ## 📸 Preview  
-[*(Attach your screenshot here)*](https://github.com/Priyadhar29/Counter_JS/blob/main/Images/Add%20to%20Cart.png)
+(https://github.com/Priyadhar29/Counter_JS/blob/main/Images/Add%20to%20Cart.png)
+
+---
+(https://github.com/Priyadhar29/Counter_JS/blob/main/Images/Increased.png)
+
+---
+(https://github.com/Priyadhar29/Counter_JS/blob/main/Images/Decreased.png)
 
 ---
 
@@ -48,6 +54,7 @@ Easily **increment** or **decrement** values with stylish glowing buttons and an
 
 ### 🌟 Author  
 **[PriyaDharshini](https://github.com/Priyadhar29)**  
+
 ⭐ If you like this project, don't forget to **star the repo**!  
 
 ---
