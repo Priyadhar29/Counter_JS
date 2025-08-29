@@ -35,13 +35,13 @@ Easily **increment** or **decrement** values with stylish glowing buttons and an
 ---
 
 ## 📸 Preview  
-(https://github.com/Priyadhar29/Counter_JS/blob/main/Images/Add%20to%20Cart.png)
+[ADD TO CART](https://github.com/Priyadhar29/Counter_JS/blob/main/Images/Add%20to%20Cart.png)
 
 ---
-(https://github.com/Priyadhar29/Counter_JS/blob/main/Images/Increased.png)
+[INC](https://github.com/Priyadhar29/Counter_JS/blob/main/Images/Increased.png)
 
 ---
-(https://github.com/Priyadhar29/Counter_JS/blob/main/Images/Decreased.png)
+[DEC](https://github.com/Priyadhar29/Counter_JS/blob/main/Images/Decreased.png)
 
 ---
 
